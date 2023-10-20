@@ -18,6 +18,8 @@ This project is analyze on Stock Overflow survey done in 2022. After analyzing t
 -Do Bigger Organization In USA Pay More
 
 Number 2 : Data Science Job Posting on Glassdoor 
+
 Some of the skills used : Data Transformation, Data Cleaning, Data Analysis, Data vizualization.
+
 I was intrested to analyze job posting for Data Science, to get to know what are the best job position in demand, what are the most used programs, comapanies that pay the most etc.
 
